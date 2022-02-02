@@ -1,7 +1,7 @@
 ## Profile
 Expert engineer with more than 15 years deep hands-on experience in networking, virtualization and cloud technologies. Throughout my career, I operated and supported large production networks, designed solutions for large groups, led collaboration efforts with various technology partners in the SDN / SD-WAN space, as well as worked on identifying business opportunities in 5G and Edge Computing.
 
-
+## 
 
 
 You can use the [editor on GitHub](https://github.com/alexnastas/resume/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
