@@ -25,6 +25,27 @@ Leading the Technology Partner Program at Nuage Networks. Responsible for techni
 - Publishing relevant technical partner related documentation and raising awareness about joint value proposition with technology partners
 
 
+## Sr. Network and Virtualization Engineer at Orange, France
+_May 2014 – April 2016_
+
+Conducting studies in the field of Software Defined Networking (SDN) and Network Functions Virtualization (NFV). Integrating State-of-the-Art solutions as VMware NSX, Juniper Contrail, Nuage Networks in order to create IaaS (Infrastructure-as-a-Service) environments. Design and architecture of Openstack platforms and integration with SDN solutions. Troubleshooting and analyzing SDN solutions network functionalities and performance. Projects include
+- VMware NSX SDN (Software Defined Networking) solution industrialization
+- VIM (Virtual Infrastructure Manager) and SDN Integration
+- Network Platform Design and management
+
+
+## Sr. Network Engineer at Sogeti (Capgemini), Toulouse, France
+_July 2011 – November 2014_
+
+Level 3 support and expertise of network and security equipment in large-scale enterprise networks. Maintaining 24x7 network environments. Implementing of TCP/IP Core network services. Designing and deploying network systems. Projects include
+- Airbus/EADS Email rebranding project (Migration of 240 000 Users Mailboxes from @eads.com to @airbus.com. Network and infrastructure planning, design and implementation)
+- Solfea Bank Network Design and Reconstruction (Design and implementation from scratch of a network architecture, consisting of 2 Data Centers and 1 Users site. Creation of a Core/Distribution/Access network model using dynamic routing services (OSPF/BGP) and LAN segmentation (VLAN) and redundancy services (Link Aggregation/Spanning Tree).)
+- Credit Agricole L2/L3 Network Support (Maintain and support of large-scale network (several thousand users)
+
+
+
+
+
 
 
 
