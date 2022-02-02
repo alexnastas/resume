@@ -12,6 +12,22 @@ _Feb 2020 – Present_
 - Closely working with the development team to define the product strategy and adapt it to customer use-cases
 
 
+
+## Technology Partner Program Lead, Technical Marketing Expert at Nuage Networks (Nokia)
+_May 2016 – Jan 2020_
+
+Leading the Technology Partner Program at Nuage Networks. Responsible for technical integration projects with Nuage Networks partners that include writing and publishing technical content related to the solution features and integration into customer use-cases (white-papers, solution briefs, integration guides, etc.) and various cloud and network automation projects. My specific duties included:
+- Building Proof-of-Concept with a variety of cloud and networking solutions; collaborate with marketing team on external demonstrations
+- Deploying the Nuage Networks solution with partner products and major Operating Systems, hypervisors and cloud management systems.
+- Providing design recommendation to various sales groups
+- Performing live demonstrations to customers and tradeshow audiences
+- Developing prototype solutions to address new use-cases that include the Nuage Networks solution
+- Publishing relevant technical partner related documentation and raising awareness about joint value proposition with technology partners
+
+
+
+
+
 You can use the [editor on GitHub](https://github.com/alexnastas/resume/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
