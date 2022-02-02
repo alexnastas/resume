@@ -1,4 +1,4 @@
-# 1Profile
+# Profile
 Expert engineer with more than 15 years deep hands-on experience in networking, virtualization and cloud technologies. Throughout my career, I operated and supported large production networks, designed solutions for large groups, led collaboration efforts with various technology partners in the SDN / SD-WAN space, as well as worked on identifying business opportunities in 5G and Edge Computing.
 
 # Technical Experience
@@ -10,7 +10,6 @@ _Feb 2020 – Present_
 - Actively engaging with customers and tailoring solutions to fit their environment. Working on designing Edge Computing solutions and identifying the requirements. 
 - Working with multiple partners to create feature-rich integrations involving Lenovo products
 - Closely working with the development team to define the product strategy and adapt it to customer use-cases
-
 
 
 ### Technology Partner Program Lead, Technical Marketing Expert at Nuage Networks (Nokia)
