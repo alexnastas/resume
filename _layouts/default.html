@@ -24,7 +24,7 @@
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
         <p><b>{{ site.address}}</b></p>
-        <p class="view"><a href="mailto:{{ site.email }}"></a></p>
+        <p class="view"><a href="{{ site.email }}">{{site.email}}</a></p>
         <p class="view"><a href="{{ site.linkedin }}">Linkedin</a></p>
         
         {% if site.github.is_user_page %}
