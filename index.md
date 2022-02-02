@@ -6,6 +6,10 @@ Expert engineer with more than 15 years deep hands-on experience in networking, 
 ### Technical Business Development Manager (EMEA) at Lenovo
 _Feb 2020 – Present_
 
+- Identifying and implementing new growth opportunities in the Telco market. Particularly focusing around Network Edge, IoT and 5G use-cases. 
+- Actively engaging with customers and tailoring solutions to fit their environment. Working on designing Edge Computing solutions and identifying the requirements. 
+- Working with multiple partners to create feature-rich integrations involving Lenovo products
+- Closely working with the development team to define the product strategy and adapt it to customer use-cases
 
 
 You can use the [editor on GitHub](https://github.com/alexnastas/resume/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
