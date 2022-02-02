@@ -1,3 +1,11 @@
 theme: jekyll-theme-minimal
 title: Alex Nastas
 description: Network Engineer, Cloud architect, Business Development
+
+sidebar:
+  - name: Google Scholar
+    icon: fa-solid fa-user-graduate
+    link: https://scholar.google.com/citations?user=zR6afi8AAAAJ
+  - name: GitHub
+    icon: fa-brands fa-github
+    link: https://github.com/BDHU
