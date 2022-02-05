@@ -5,7 +5,7 @@ Expert engineer with more than 15 years deep hands-on experience in networking, 
 # Technical Experience
 
 
-### - Lenovo - 
+## - Lenovo - 
 **Technical Business Development Manager (EMEA)**<br>
 _February 2020 – Present_
 
@@ -15,7 +15,7 @@ _February 2020 – Present_
 - Closely working with the development team to define the product strategy and adapt it to customer needs
 
 
-### - Nuage Networks (Nokia) -
+## - Nuage Networks (Nokia) -
 **Technical Marketing Expert, then Technology Partner Program Lead**<br>
 _May 2016 – January 2020_
 
