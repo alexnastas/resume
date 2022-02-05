@@ -5,8 +5,8 @@ Expert engineer with more than 15 years deep hands-on experience in networking, 
 # Technical Experience
 
 
-### Lenovo
-**Technical Business Development Manager (EMEA)**
+### - Lenovo - 
+**Technical Business Development Manager (EMEA)**<br>
 _February 2020 – Present_
 
 - Identifying and implementing new growth opportunities in the Telco market. Focusing around Edge Computing, IoT and 5G use-cases. 
@@ -15,8 +15,8 @@ _February 2020 – Present_
 - Closely working with the development team to define the product strategy and adapt it to customer needs
 
 
-### Nuage Networks (Nokia)
-**Technical Marketing Expert, then Technology Partner Program Lead**
+### - Nuage Networks (Nokia) -
+**Technical Marketing Expert, then Technology Partner Program Lead**<br>
 _May 2016 – January 2020_
 
 Leading the Technology Partner Program at Nuage Networks. Responsible for technical integration projects with Nuage Networks partners that include writing and publishing technical content related to the solution features and integration into customer use-cases (white-papers, solution briefs, integration guides, etc.)(please refer to the [Publications section](#Publications) at the end of this document) and various cloud and network automation projects. My specific duties included:
