@@ -1,22 +1,26 @@
 # Profile
+
 Expert engineer with more than 15 years deep hands-on experience in networking, virtualization and cloud technologies. Throughout my career, I operated and supported large production networks, designed solutions for large groups, led collaboration efforts with various technology partners in the SDN / SD-WAN space, as well as worked on identifying business opportunities in 5G and Edge Computing.
 
 # Technical Experience
 
-### Technical Business Development Manager (EMEA) at Lenovo
-_Feb 2020 – Present_
 
-- Identifying and implementing new growth opportunities in the Telco market. Particularly focusing around Network Edge, IoT and 5G use-cases. 
+### Lenovo
+**Technical Business Development Manager (EMEA)**
+_February 2020 – Present_
+
+- Identifying and implementing new growth opportunities in the Telco market. Focusing around Edge Computing, IoT and 5G use-cases. 
 - Actively engaging with customers and tailoring solutions to fit their environment. Working on designing Edge Computing solutions and identifying the requirements. 
-- Working with multiple partners to create feature-rich integrations involving Lenovo products
-- Closely working with the development team to define the product strategy and adapt it to customer use-cases
+- Working with multiple partners to create feature-rich integrations involving Lenovo products and building the strategic partner ecosystem. 
+- Closely working with the development team to define the product strategy and adapt it to customer needs
 
 
-### Technology Partner Program Lead, Technical Marketing Expert at Nuage Networks (Nokia)
-_May 2016 – Jan 2020_
+### Nuage Networks (Nokia)
+**Technical Marketing Expert, then Technology Partner Program Lead**
+_May 2016 – January 2020_
 
-Leading the Technology Partner Program at Nuage Networks. Responsible for technical integration projects with Nuage Networks partners that include writing and publishing technical content related to the solution features and integration into customer use-cases (white-papers, solution briefs, integration guides, etc.) and various cloud and network automation projects. My specific duties included:
-- Building Proof-of-Concept with a variety of cloud and networking solutions; collaborate with marketing team on external demonstrations
+Leading the Technology Partner Program at Nuage Networks. Responsible for technical integration projects with Nuage Networks partners that include writing and publishing technical content related to the solution features and integration into customer use-cases (white-papers, solution briefs, integration guides, etc.)(please refer to the [Publications section](#Publications) at the end of this document) and various cloud and network automation projects. My specific duties included:
+- Building PoCs with a variety of cloud and networking solutions; collaborate with marketing team on external demonstrations
 - Deploying the Nuage Networks solution with partner products and major Operating Systems, hypervisors and cloud management systems.
 - Providing design recommendation to various sales groups
 - Performing live demonstrations to customers and tradeshow audiences
@@ -24,16 +28,18 @@ Leading the Technology Partner Program at Nuage Networks. Responsible for techni
 - Publishing relevant technical partner related documentation and raising awareness about joint value proposition with technology partners
 
 
-### Sr. Network and Virtualization Engineer at Orange, France
+### Orange, France
+**Senior Network and Virtualization Engineer**
 _May 2014 – April 2016_
 
-Conducting studies in the field of Software Defined Networking (SDN) and Network Functions Virtualization (NFV). Integrating State-of-the-Art solutions as VMware NSX, Juniper Contrail, Nuage Networks in order to create IaaS (Infrastructure-as-a-Service) environments. Design and architecture of Openstack platforms and integration with SDN solutions. Troubleshooting and analyzing SDN solutions network functionalities and performance. Projects include
+Testing and implementing SDN and NFV solutions. Creating IaaS platforms based on solutions like VMware NSX, Juniper Contrail and Nuage Networks. Design and architecture of Openstack platforms and integration with SDN solutions. Troubleshooting and analyzing SDN solutions network functionalities and performance. Projects include
 - VMware NSX SDN (Software Defined Networking) solution industrialization
 - VIM (Virtual Infrastructure Manager) and SDN Integration
 - Network Platform Design and management
 
 
-### Sr. Network Engineer at Sogeti (Capgemini), Toulouse, France
+### Sogeti (Capgemini), Toulouse, France
+**Senior Network Engineer**
 _July 2011 – November 2014_
 
 Level 3 support and expertise of network and security equipment in large-scale enterprise networks. Maintaining 24x7 network environments. Implementing of TCP/IP Core network services. Designing and deploying network systems. Projects include
