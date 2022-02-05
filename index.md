@@ -18,7 +18,7 @@ _February 2020 – Present_
 **Technical Marketing Expert, then Technology Partner Program Lead**<br>
 _May 2016 – January 2020_
 
-Leading the Technology Partner Program at Nuage Networks. Responsible for technical integration projects with Nuage Networks partners that include writing and publishing technical content related to the solution features and integration into customer use-cases (white-papers, solution briefs, integration guides, etc.)(please refer to the [Publications section](#Publications) at the end of this document) and various cloud and network automation projects. My specific duties included:
+Leading the Technology Partner Program at Nuage Networks. Responsible for technical integration projects with Nuage Networks partners that include writing and publishing technical content related to the solution features and integration into customer use-cases (white-papers, solution briefs, integration guides, etc.)(please refer to the **Publications** section at the end of this document) and various cloud and network automation projects. My specific duties included:
 - Building PoCs with a variety of cloud and networking solutions; collaborate with marketing team on external demonstrations
 - Deploying the Nuage Networks solution with partner products and major Operating Systems, hypervisors and cloud management systems.
 - Providing design recommendation to various sales groups
@@ -67,7 +67,7 @@ Part-Time Network and Systems Administrator. Design and implementation of a netw
 
 # Education
 ## <ins> ENSEEIHT, Toulouse, France </ins>
-**Master Degree in Networking** <br> 
+**Master's Degree in Networking** <br> 
 _September 2008 – September 2009_
 
 Master’s Degree in Networking and Telecom at National Polytechnic Institute of Toulouse (ENSEEIHT)
