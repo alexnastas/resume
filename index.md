@@ -4,9 +4,7 @@ Expert engineer with more than 15 years deep hands-on experience in networking, 
 
 # Technical Experience
 
-<ins>test text </ins>
-
-## <ins> - Lenovo - </ins>
+## <ins> Lenovo </ins>
 **Technical Business Development Manager (EMEA)**<br>
 _February 2020 – Present_
 
@@ -16,7 +14,7 @@ _February 2020 – Present_
 - Closely working with the development team to define the product strategy and adapt it to customer needs
 
 
-## - Nuage Networks (Nokia) -
+## <ins> Nuage Networks (Nokia) </ins>
 **Technical Marketing Expert, then Technology Partner Program Lead**<br>
 _May 2016 – January 2020_
 
@@ -29,8 +27,8 @@ Leading the Technology Partner Program at Nuage Networks. Responsible for techni
 - Publishing relevant technical partner related documentation and raising awareness about joint value proposition with technology partners
 
 
-### Orange, France
-**Senior Network and Virtualization Engineer**
+## <ins> Orange, France </ins> 
+**Senior Network and Virtualization Engineer**<br>
 _May 2014 – April 2016_
 
 Testing and implementing SDN and NFV solutions. Creating IaaS platforms based on solutions like VMware NSX, Juniper Contrail and Nuage Networks. Design and architecture of Openstack platforms and integration with SDN solutions. Troubleshooting and analyzing SDN solutions network functionalities and performance. Projects include
@@ -39,8 +37,8 @@ Testing and implementing SDN and NFV solutions. Creating IaaS platforms based on
 - Network Platform Design and management
 
 
-### Sogeti (Capgemini), Toulouse, France
-**Senior Network Engineer**
+## <ins> Sogeti (Capgemini), Toulouse, France </ins>
+**Senior Network Engineer**<br>
 _July 2011 – November 2014_
 
 Level 3 support and expertise of network and security equipment in large-scale enterprise networks. Maintaining 24x7 network environments. Implementing of TCP/IP Core network services. Designing and deploying network systems. Projects include
@@ -48,16 +46,19 @@ Level 3 support and expertise of network and security equipment in large-scale e
 - Solfea Bank Network Design and Reconstruction (Design and implementation from scratch of a network architecture, consisting of 2 Data Centers and 1 Users site. Creation of a Core/Distribution/Access network model using dynamic routing services (OSPF/BGP) and LAN segmentation (VLAN) and redundancy services (Link Aggregation/Spanning Tree).)
 - Credit Agricole L2/L3 Network Support (Maintain and support of large-scale network (several thousand users)
 
-### Research & Development Engineer at CNRS, Toulouse, France
+## <ins> CNRS, Toulouse, France <ins>
+**Research & Development Engineer** <br>
 _September 2009 – November 2010_
 Research work involving tests and development of new standards in automotive embedded networking (CAN/LIN/FlexRay/Real-time ethernet). Analysis and modulization of QoS mechanisms for embedded network protocols
 
-### Network Engineer at Eventis Mobile, Chisinau, Moldova
+## <ins> Eventis Mobile, Chisinau, Moldova </ins>
+**Network Engineer** <br>
 _July 2007 – August 2008_
 
 Configuration and administration of Cisco switches and Routers (Catalyst 2950/2960/2750/4500/6500 and 4000m/3600/3000/2600/1600). Routing protocols OSPF/EIGRP/BGP. Interconnecting GGSN and SGSN Systems with IP Core
 
-### Systems and Network Administrator at Casa Farm, Chisinau, Moldova
+## <ins> Casa Farm, Chisinau, Moldova </ins>
+Systems and Network Administrator <br>
 _September 2002 – June 2007_
 
 Part-Time Network and Systems Administrator. Design and implementation of a network consisting of 80 PCs. Implementation of various services like DNS, Active Directory, DHCP, Mail, DMZ, VPN (5 Remote locations)
@@ -65,13 +66,15 @@ Part-Time Network and Systems Administrator. Design and implementation of a netw
 
 
 # Education
-### Master in Networking at ENSEEIHT, Toulouse, France
+## <ins> ENSEEIHT, Toulouse, France </ins>
+**Master Degree in Networking** <br> 
 _September 2008 – September 2009_
 
-Master’s Degree at National Polytechnic Institute of Toulouse (ENSEEIHT)
+Master’s Degree in Networking and Telecom at National Polytechnic Institute of Toulouse (ENSEEIHT)
 
 
-### Bachelor’s degree at Technical University of Moldova, Chisinau, Moldova
+## <ins> Technical University of Moldova, Chisinau, Moldova </ins>
+**Bachelor’s degree** <br>
 _September 2002 – August 2007_
 
 Faculty of Radio electronics and Telecommunications, specialty of Telecommunications 
@@ -80,4 +83,3 @@ Faculty of Radio electronics and Telecommunications, specialty of Telecommunicat
 # Publications
 - White-Paper: [Meeting the expectations of digital shoppers with SD-WAN](https://github.com/alexnastas/resume/raw/gh-pages/publications/Nokia_Nuage_Networks_Transforming_Retail_Networks_w_SD-WAN_White_Paper_EN.pdf)
 - White-Paper: [OpenStack networking: The challenges and a new hope](https://github.com/alexnastas/resume/raw/gh-pages/publications/Nokia_Nuage_Networks_OpenStack_Networking_White_Paper_EN.pdf)
-
