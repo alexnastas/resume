@@ -19,7 +19,7 @@ _February 2020 – Present_
 _May 2016 – January 2020_
 
 Leading the Technology Partner Program at Nuage Networks. Responsible for technical integration projects with Nuage Networks partners that include writing and publishing technical content related to the solution features and integration into customer use-cases (white-papers, solution briefs, integration guides, etc.)(please refer to the **Publications** section at the end of this document) and various cloud and network automation projects. My specific duties included:
-- Building PoCs with a variety of cloud and networking solutions; collaborate with marketing team on external demonstrations
+- Building PoCs with a variety of cloud and networking solutions; Automating the deployment of virtual labs (Python, Ansible, Terraform). Collaborating with marketing team on external demonstrations
 - Deploying the Nuage Networks solution with partner products and major Operating Systems, hypervisors and cloud management systems.
 - Providing design recommendation to various sales groups
 - Performing live demonstrations to customers and tradeshow audiences
@@ -41,15 +41,15 @@ Testing and implementing SDN and NFV solutions. Creating IaaS platforms based on
 **Senior Network Engineer**<br>
 _July 2011 – November 2014_
 
-Level 3 support and expertise of network and security equipment in large-scale enterprise networks. Maintaining 24x7 network environments. Implementing of TCP/IP Core network services. Designing and deploying network systems. Projects include
+Level 3 support and expertise of network and security equipment in large-scale enterprise networks. Maintaining 24x7 network environments. Implementing TCP/IP Core network services. Designing and deploying network systems. Projects include
 - Airbus/EADS Email rebranding project (Migration of 240 000 Users Mailboxes from @eads.com to @airbus.com. Network and infrastructure planning, design and implementation)
-- Solfea Bank Network Design and Reconstruction (Design and implementation from scratch of a network architecture, consisting of 2 Data Centers and 1 Users site. Creation of a Core/Distribution/Access network model using dynamic routing services (OSPF/BGP) and LAN segmentation (VLAN) and redundancy services (Link Aggregation/Spanning Tree).)
-- Credit Agricole L2/L3 Network Support (Maintain and support of large-scale network (several thousand users)
+- Solfea Bank Network Design and Reconstruction (Design and implementation from scratch of a network architecture, consisting of 2 Data Centers and 1 Users site. Creation of a Core/Distribution/Access network model using dynamic routing services (OSPF/BGP) and LAN segmentation (VLAN) and redundancy services (Link Aggregation/Spanning Tree).
+- Credit Agricole L2/L3 Network Support (Support of large-scale network (several thousand users))
 
 ## <ins> CNRS, Toulouse, France <ins>
 **Research & Development Engineer** <br>
 _September 2009 – November 2010_
-Research work involving tests and development of new standards in automotive embedded networking (CAN/LIN/FlexRay/Real-time ethernet). Analysis and modulization of QoS mechanisms for embedded network protocols
+Research work involving tests and development of new standards in automotive embedded networking (CAN/LIN/FlexRay/Real-time ethernet). Analysis and modelling of QoS mechanisms for embedded network protocols
 
 ## <ins> Eventis Mobile, Chisinau, Moldova </ins>
 **Network Engineer** <br>
@@ -62,7 +62,6 @@ Systems and Network Administrator <br>
 _September 2002 – June 2007_
 
 Part-Time Network and Systems Administrator. Design and implementation of a network consisting of 80 PCs. Implementation of various services like DNS, Active Directory, DHCP, Mail, DMZ, VPN (5 Remote locations)
-
 
 
 # Education
