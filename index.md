@@ -64,8 +64,8 @@ _September 2002 – June 2007_
 Part-Time Network and Systems Administrator. Design and implementation of a network consisting of 80 PCs. Implementation of various services like DNS, Active Directory, DHCP, Mail, DMZ, VPN (5 Remote locations)
 
 # Certifications
-<img src="images/ccna.png" alt="drawing" width="200"/>
-<img src="images/ccnp.png" alt="drawing" width="200"/>
+<img src="images/ccna.png" alt="drawing" width="90"/>
+<img src="images/ccnp.png" alt="drawing" width="100"/>
 
 # Education
 ## <ins> ENSEEIHT, Toulouse, France </ins>
