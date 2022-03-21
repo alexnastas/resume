@@ -5,7 +5,7 @@ Expert engineer with more than 15 years deep hands-on experience in networking, 
 # Technical Experience
 
 ## <ins> Lenovo </ins>
-**Technical Business Development Manager (EMEA)**<br>
+**Solutions Architect / Technical Business Development Manager (EMEA)**<br>
 _February 2020 – Present_
 
 - Identifying and implementing new growth opportunities in the Telco market. Focusing around Edge Computing, IoT and 5G use-cases. 
